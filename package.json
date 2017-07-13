@@ -1,6 +1,6 @@
 {
-  "name": "save-pixels",
-  "version": "2.3.4",
+  "name": "save-pixels-jpeg-js-upgrade",
+  "version": "2.3.4-jpeg-js-upgrade.0",
   "description": "Saves an ndarray as an image to a file",
   "main": "save-pixels.js",
   "directories": {

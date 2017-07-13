@@ -1,5 +1,7 @@
 save-pixels
 ===========
+**WILL NOT BE MAINTAINED; published fork pending update of main save-pixels package.**
+
 Saves an ndarray to an image.
 
 Example
